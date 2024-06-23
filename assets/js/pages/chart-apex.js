@@ -23,12 +23,12 @@ $(document).ready(function() {
                     data: [10, 41, 35, 51, 49, 62, 69, 91, 148]
                 }],
                 title: {
-                    text: 'Stats for this Months',
+                    text: 'Product Trends by Month',
                     align: 'left'
                 },
                 grid: {
                     row: {
-                        colors: ['#fff', 'transparent'], // takes an array which will be repeated on columns
+                        colors: ['#f3f6ff', 'transparent'], // takes an array which will be repeated on columns
                         opacity: 0.5
                     },
                 },
@@ -110,7 +110,7 @@ $(document).ready(function() {
                 }],
                 colors: ["#4680ff"],
                 title: {
-                    text: 'CFA3,199 thousand',
+                    text: 'Dynamic Updating Chart',
                     align: 'left'
                 },
                 markers: {

@@ -17649,6 +17649,7 @@ a.text-dark:hover, a.text-dark:focus {
 .card .card-block,
   .card .card-body {
     padding: 20px 20px;
+    background: #fff;
 }
 
 .card.card-load {
@@ -18086,7 +18087,7 @@ a:hover {
 
 h1, h2, h3, h4, h5, h6 {
     /* color: #37474f;*/
-    color: white;
+    color: black;
     font-weight: 600;
 }
 
